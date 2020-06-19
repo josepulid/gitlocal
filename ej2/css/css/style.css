@@ -1,0 +1,31 @@
+text {
+    font-family: fantasy;
+}
+
+body {
+    background-color: rgb(103, 238, 114);
+}
+
+#cabecera {
+    padding: 20pk 20px 20px 20px;
+    height: 40px;
+    padding: 20px 20px 20px 20px 20px background-color: rgb(103, 238, 114);
+}
+
+
+}
+.frame {
+    width: 80%;
+    height: 300px;
+}
+#body {
+    display: flex;
+    flex: column;
+    justify-content: center
+}
+.action-button {
+    padding: 15px;
+    background-color: aquamarine;
+    border-radius: 10px;
+    color: antiquewhite;
+}
